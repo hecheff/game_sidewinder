@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="311" Column="61" />
+      <File FileName="Assets\Scripts\DestroyByBoundary.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Mover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StageController_PROT.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OptionFormationF.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OptionBall_Behavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyGroup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BGScroll.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\minicore_homing.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByContact.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
